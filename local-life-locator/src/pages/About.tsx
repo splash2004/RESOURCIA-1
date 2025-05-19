@@ -29,7 +29,7 @@ const About = () => {
             <Card>
               <CardContent className="pt-6">
                 <div className="w-20 h-20 rounded-full bg-primary/10 mx-auto mb-4" />
-                <h3 className="text-lg font-medium text-center">Sarah Johnson</h3>
+                <h3 className="text-lg font-medium text-center">Iron Man</h3>
                 <p className="text-center text-muted-foreground">Founder & Executive Director</p>
               </CardContent>
             </Card>
@@ -37,7 +37,7 @@ const About = () => {
             <Card>
               <CardContent className="pt-6">
                 <div className="w-20 h-20 rounded-full bg-primary/10 mx-auto mb-4" />
-                <h3 className="text-lg font-medium text-center">Miguel Rodriguez</h3>
+                <h3 className="text-lg font-medium text-center">Hulk </h3>
                 <p className="text-center text-muted-foreground">Technology Director</p>
               </CardContent>
             </Card>
@@ -45,7 +45,7 @@ const About = () => {
             <Card>
               <CardContent className="pt-6">
                 <div className="w-20 h-20 rounded-full bg-primary/10 mx-auto mb-4" />
-                <h3 className="text-lg font-medium text-center">Aisha Williams</h3>
+                <h3 className="text-lg font-medium text-center">Black Widow</h3>
                 <p className="text-center text-muted-foreground">Community Outreach</p>
               </CardContent>
             </Card>
@@ -94,15 +94,15 @@ const About = () => {
         
         <div className="border rounded-lg p-6 bg-card">
           <h3 className="font-medium mb-2">Email</h3>
-          <p className="text-muted-foreground mb-4">info@communityresourcefinder.org</p>
+          <p className="text-muted-foreground mb-4">pleasedontmailme.org</p>
           
           <h3 className="font-medium mb-2">Phone</h3>
-          <p className="text-muted-foreground mb-4">(555) 123-4567</p>
+          <p className="text-muted-foreground mb-4">0000000000</p>
           
           <h3 className="font-medium mb-2">Address</h3>
           <p className="text-muted-foreground">
-            123 Community Way<br />
-            Springfield, IL 62701
+            lokie <br />
+            stark tower
           </p>
         </div>
       </section>
