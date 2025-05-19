@@ -9,15 +9,15 @@ export function Footer() {
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
               <MapPin className="h-6 w-6 text-primary mr-2" />
-              <h2 className="text-lg font-bold">Community Resource Finder</h2>
+              <h2 className="text-lg font-bold">RESOURCIA</h2>
             </div>
             <p className="text-sm text-muted-foreground">
-              Helping connect people with essential community resources since 2023.
+              Helping connect people with essential community resources since 2025-05-18
             </p>
           </div>
           
           <div>
-            <h3 className="font-medium mb-4">Resources</h3>
+            <h3 className="font-medium mb-4">Resourcia</h3>
             <ul className="space-y-2 text-sm">
               <li><a href="/resources?type=food" className="text-muted-foreground hover:text-foreground transition-colors">Food Banks</a></li>
               <li><a href="/resources?type=shelter" className="text-muted-foreground hover:text-foreground transition-colors">Shelters</a></li>
@@ -48,7 +48,7 @@ export function Footer() {
         
         <div className="border-t mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-muted-foreground">
-            © 2023 Community Resource Finder. All rights reserved.
+            © 2025 Community Resource Finder. All rights reserved to RESOURCIA
           </p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <a href="#" className="text-muted-foreground hover:text-foreground">Terms</a>
